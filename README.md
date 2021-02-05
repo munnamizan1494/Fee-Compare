@@ -12,3 +12,8 @@ In this project I will show comparison transection fees between defi products (t
 # According to the Blockchair indicates
 
 ![](Capture.PNG)
+
+
+The increase in the cost of transacting on the Ethereum network also reflects growing demand for ERC-20 based tokens, particularly stablecoins and the red-hot decentralized finance (DeFi) sector.
+Led by tokens like uniswap (UNI) and aave (AAVE), DeFi's total market capitalization is up 16.37% in 24 hours, according to Messari.
+Ethereum miners have been a primary beneficiary of the fee spike. The industry earned some $830 million in ether last month with 40% attributed from fees alone

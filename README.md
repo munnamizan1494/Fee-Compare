@@ -21,3 +21,7 @@ Ethereum miners have been a primary beneficiary of the fee spike. The industry e
 # Solana Chain
 
 ![](Logos/SOL.jpg)
+
+Solana (SOL) was created in 2017 with the goal of efficiently scaling censorship resistance to support an order of magnitude increase in transaction throughput. The resulting blockchain is an ultrafast network capable of operating far more cost-effectively than most other established blockchains.
+
+Solana is a high-speed blockchain, currently supporting 50-65k transactions per second and 400ms block times with 50 nodes on its public testnet. It is specifically built to scale transaction throughput without sacrificing decentralization or security

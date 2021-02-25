@@ -1,6 +1,7 @@
 # Fee-Compare
 In this informative project I will show comparison transection fees between defi products (that mostly runs on ETH network) and the solana (SOL) chain.
-![](ethvssol.jpg)
+
+<img src="ethvssol.jpg" width="240" >
 
 # Eth Network 
 

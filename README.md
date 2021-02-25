@@ -1,11 +1,11 @@
 # Fee-Compare
 In this informative project I will show comparison transection fees between defi products (that mostly runs on ETH network) and the solana (SOL) chain.
 
-<img src="ethvssol.jpg" width="240" >
+   <img src="ethvssol.jpg" width="560" height="420" >
 
 # Eth Network 
 
-![](Logos/ETH.png)
+<img src="Logos/ETH.png" width="350" height="240" >
 
 1. The average Ethereum transaction fee has passed $20 for the first time. Ethereum last broke its transaction fee record a month ago on Jan. 11, hitting an average $19 per transaction. Current values double the peak transaction fees recorded during "DeFi Summer" of 2020. 
 2. Ethereum Average Transaction Fee measures the average fee in USD when an Ethereum transaction is processed by a miner and confirmed. Average Ethereum transaction fees can spike during periods of congestion on the network, as they did during the 2017 to early 2018 crypto boom where they reached around 3 USD.
@@ -21,7 +21,7 @@ Ethereum miners have been a primary beneficiary of the fee spike. The industry e
 
 # Solana Chain
 
-![](Logos/SOL.jpg)
+<img src="Logos/SOL.jpg" width="350" height="240" >
 
 1. Solana (SOL) was created in 2017 with the goal of efficiently scaling censorship resistance to support an order of magnitude increase in transaction throughput. The resulting blockchain is an ultrafast network capable of operating far more cost-effectively than most other established blockchains.
 
